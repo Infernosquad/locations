@@ -1,0 +1,1 @@
+Replace GOOGLE_KEY on your own in .env(.env.local) and run composer install
